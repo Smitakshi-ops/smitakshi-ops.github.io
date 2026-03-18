@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact | Smitakshi Goswami</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <aside class="sidebar">
+      <img src="profile.jpg" alt="Smitakshi Goswami">
+      <h1>Smitakshi Goswami</h1>
+      <p>PhD Candidate<br>Physics & Materials Science<br>Dartmouth College</p>
+
+      <div class="nav-links">
+        <a href="index.html">About</a>
+        <a href="research.html">Research</a>
+        <a href="publications.html">Publications</a>
+        <a href="contact.html">Contact</a>
+      </div>
+
+      <div class="social-links">
+        <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank">Google Scholar</a>
+        <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">LinkedIn</a>
+      </div>
+    </aside>
+
+    <main class="main-content">
+      <h2>Contact</h2>
+      <p>Email: yourname@dartmouth.edu</p>
+      <p><a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank">Google Scholar</a></p>
+      <p><a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">LinkedIn</a></p>
+    </main>
+  </div>
+</body>
+</html>
